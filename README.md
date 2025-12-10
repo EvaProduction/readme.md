@@ -5,7 +5,6 @@
 ### *Créateurs d'expériences FiveM immersives*
 
 [![Discord](https://img.shields.io/badge/Discord-Rejoindre-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/votre-invite)
-[![GitHub](https://img.shields.io/badge/GitHub-NexProduction-181717?style=for-the-badge&logo=github)](https://github.com/NexProduction)
 [![License](https://img.shields.io/badge/License-Propriétaire-red?style=for-the-badge)](LICENSE)
 
 ---
